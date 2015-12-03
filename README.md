@@ -2,7 +2,7 @@ React-Box
 ==========
 
 ## A fork of scotch-box from [scotch.io](http://scotch.io) but with a few modifications
-## Check out the official docs at: [box.scotch.io][http://scotch.io]
+## Check out the official docs at: [box.scotch.io](http://scotch.io)
 
 Nothing crazy here, just a few mods I use on nearly every project; so this makes it easier than having to set it up time and time again.
 
